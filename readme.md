@@ -23,3 +23,7 @@
 
 ## SCREENSHOT
 ![Alt Text](https://github.com/Princy06/Assessment/blob/main/screenshot/assgn1.png)
+![](https://github.com/Princy06/Assessment/blob/main/screenshot/assgn2.png)
+![](https://github.com/Princy06/Assessment/blob/main/screenshot/assign3.png)
+![](https://github.com/Princy06/Assessment/blob/main/screenshot/assign4.png)
+![](https://github.com/Princy06/Assessment/blob/main/screenshot/assgn5.png)
