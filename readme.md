@@ -21,5 +21,5 @@
 10. Now the project is completely setup.
 11. Go to http://localhost/internshala_project and use the website.
 
-##SCREENSHOT
+## SCREENSHOT
 ![Alt Text](https://github.com/Princy06/Assessment/blob/main/screenshot/assgn1.png)
